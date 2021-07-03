@@ -2447,11 +2447,8 @@
   <programme start="20210704025500 -0500" stop="20210704051200 -0500" channel="Canal Cinecanal (Pacífico)">
     <title lang="es">Atrapame si puedes</title>
   </programme>
-  <programme start="20210704051200 -0500" stop="20210704103000 -0500" channel="Canal Cinecanal (Pacífico)">
+  <programme start="20210704051200 -0500" stop="20210704113000 -0500" channel="Canal Cinecanal (Pacífico)">
     <title lang="es">Actividad paranormal Los marcados</title>
-  </programme>
-  <programme start="20210704103000 -0500" stop="20210704113000 -0500" channel="Canal Cinecanal (Pacífico)">
-    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20210704113000 -0500" stop="20210704120000 -0500" channel="Canal Cinecanal (Pacífico)">
     <title lang="es">Infomerciales</title>
@@ -22878,7 +22875,10 @@ Jonathan Mostow (''Terminator 3''. La rebelión de las máquinas) dirige est...<
   <programme start="20210704103000 -0500" stop="20210704110000 -0500" channel="Telemundo PR">
     <title lang="es">Vamos a Xplorar</title>
   </programme>
-  <programme start="20210704110000 -0500" stop="20210704140000 -0500" channel="Telemundo PR">
+  <programme start="20210704110000 -0500" stop="20210704113000 -0500" channel="Telemundo PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210704113000 -0500" stop="20210704140000 -0500" channel="Telemundo PR">
     <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20210704140000 -0500" stop="20210704143000 -0500" channel="Telemundo PR">
@@ -44437,10 +44437,10 @@ Jonathan Mostow (''Terminator 3''. La rebelión de las máquinas) dirige est...<
   <programme start="20210704061000 -0500" stop="20210704070000 -0500" channel="AE latino">
     <title lang="es">Dr. Pie</title>
   </programme>
-  <programme start="20210704070000 -0500" stop="20210704100000 -0500" channel="AE latino">
+  <programme start="20210704070000 -0500" stop="20210704110000 -0500" channel="AE latino">
     <title lang="es">Último día en libertad</title>
   </programme>
-  <programme start="20210704100000 -0500" stop="20210704120000 -0500" channel="AE latino">
+  <programme start="20210704110000 -0500" stop="20210704120000 -0500" channel="AE latino">
     <title lang="es">Infomercialess</title>
   </programme>
   <programme start="20210704120000 -0500" stop="20210704125000 -0500" channel="AE latino">
