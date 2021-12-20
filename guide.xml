@@ -231,32 +231,26 @@
   </channel>
   <channel id="FOX spain">
     <display-name lang="es">FOX spain</display-name>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/4a/10000202.png" />
     <url>http://www.elmundo.es</url>
   </channel>
   <channel id="FOX Life spain">
     <display-name lang="es">FOX Life spain</display-name>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/14/10000660.png" />
     <url>http://www.elmundo.es</url>
   </channel>
   <channel id="Hollywood">
     <display-name lang="es">Hollywood</display-name>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/bd/10000061.png" />
     <url>http://www.elmundo.es</url>
   </channel>
   <channel id="laSexta">
     <display-name lang="es">laSexta</display-name>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/7e/10000510.png" />
     <url>http://www.elmundo.es</url>
   </channel>
   <channel id="M. CineDoc&amp;Roll">
     <display-name lang="es">M CineDocRoll</display-name>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/ce/10000846.png" />
     <url>http://www.elmundo.es</url>
   </channel>
   <channel id="M. Drama">
     <display-name lang="es">M Drama</display-name>
-    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/d1/10000849.png" />
     <url>http://www.elmundo.es</url>
   </channel>
   <channel id="Mega">
@@ -1591,6 +1585,470 @@
   <programme start="20211222183900 -0600" stop="20211222212800 -0600" channel="golden_edge">
     <title lang="es">El Código Da Vinci</title>
   </programme>
+  <programme start="20211220000000 +0000" stop="20211220010000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Aqu\u00ed y ahora</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220010000 +0000" stop="20211220030000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Enamor\u00e1ndonos</title>
+    <sub-title lang="en">Amor en la Navidad</sub-title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20211220030000 +0000" stop="20211220033000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Dr. C\u00e1ndido P\u00e9rez</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220033000 +0000" stop="20211220040000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Dr. C\u00e1ndido P\u00e9rez</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220040000 +0000" stop="20211220043000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Mar\u00eda de Todos Los Angeles</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220043000 +0000" stop="20211220050000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Fin de semana</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220050000 +0000" stop="20211220060000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Jugada</title>
+    <category lang="en">Sports</category>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220060000 +0000" stop="20211220063000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Vecinos</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220063000 +0000" stop="20211220070000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Renta Congelada</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220070000 +0000" stop="20211220080000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Al Punto con Jorge Ramos</title>
+    <desc lang="en">An in-depth look at the week's top stories and most important newsmakers.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220080000 +0000" stop="20211220090000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220090000 +0000" stop="20211220100000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La rosa de Guadalupe</title>
+    <desc lang="en">Historias de amor, desamor, esperanza, lucha e intriga.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220100000 +0000" stop="20211220103000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Mar\u00eda de Todos Los Angeles</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220103000 +0000" stop="20211220110000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Fin de semana</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220110000 +0000" stop="20211220120000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220120000 +0000" stop="20211220160000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220160000 +0000" stop="20211220170000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220170000 +0000" stop="20211220173000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220173000 +0000" stop="20211220180000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220180000 +0000" stop="20211220190000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Hoy</title>
+    <category lang="en">Variety</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220190000 +0000" stop="20211220200000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Amor eterno</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211220200000 +0000" stop="20211220210000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211220210000 +0000" stop="20211220220000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220220000 +0000" stop="20211220230000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Primer impacto</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220230000 +0000" stop="20211220233000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220233000 +0000" stop="20211221000000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221000000 +0000" stop="20211221010000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">\u00bfQu\u00e9 Le Pasa a Mi Familia?</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221010000 +0000" stop="20211221020000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La rosa de Guadalupe</title>
+    <desc lang="en">Historias de amor, desamor, esperanza, lucha e intriga.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221020000 +0000" stop="20211221030000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Vencer el Pasado</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221030000 +0000" stop="20211221040000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Desalmada</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221040000 +0000" stop="20211221043000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221043000 +0000" stop="20211221050000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221050000 +0000" stop="20211221060000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Contacto Deportivo</title>
+    <sub-title lang="en">Lo Mejor de a\u00f1o Deportivo</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221060000 +0000" stop="20211221070000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Las tontas no van al cielo</title>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221070000 +0000" stop="20211221080000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211221080000 +0000" stop="20211221083000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Vecinos</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221083000 +0000" stop="20211221090000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Familia P. Luche</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221090000 +0000" stop="20211221100000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221100000 +0000" stop="20211221103000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211221103000 +0000" stop="20211221110000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221110000 +0000" stop="20211221120000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221120000 +0000" stop="20211221160000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221160000 +0000" stop="20211221170000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221170000 +0000" stop="20211221173000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221173000 +0000" stop="20211221180000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211221180000 +0000" stop="20211221190000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Hoy</title>
+    <category lang="en">Variety</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221190000 +0000" stop="20211221200000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Amor eterno</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211221200000 +0000" stop="20211221210000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211221210000 +0000" stop="20211221220000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221220000 +0000" stop="20211221230000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Primer impacto</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221230000 +0000" stop="20211221233000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221233000 +0000" stop="20211222000000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222000000 +0000" stop="20211222010000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">\u00bfQu\u00e9 Le Pasa a Mi Familia?</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211222010000 +0000" stop="20211222020000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La rosa de Guadalupe</title>
+    <desc lang="en">Historias de amor, desamor, esperanza, lucha e intriga.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222020000 +0000" stop="20211222030000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Vencer el Pasado</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211222030000 +0000" stop="20211222040000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Desalmada</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211222040000 +0000" stop="20211222043000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222043000 +0000" stop="20211222050000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222050000 +0000" stop="20211222060000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Contacto Deportivo</title>
+    <sub-title lang="en">Lo Peor del A\u00f1o Deportivo</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222060000 +0000" stop="20211222070000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Las tontas no van al cielo</title>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222070000 +0000" stop="20211222080000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211222080000 +0000" stop="20211222083000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Vecinos</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222083000 +0000" stop="20211222090000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Familia P. Luche</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222090000 +0000" stop="20211222100000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222100000 +0000" stop="20211222103000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211222103000 +0000" stop="20211222110000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222110000 +0000" stop="20211222120000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222120000 +0000" stop="20211222160000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222160000 +0000" stop="20211222170000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222170000 +0000" stop="20211222173000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222173000 +0000" stop="20211222180000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211222180000 +0000" stop="20211222190000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Hoy</title>
+    <category lang="en">Variety</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222190000 +0000" stop="20211222200000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Amor eterno</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211222200000 +0000" stop="20211222210000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211222210000 +0000" stop="20211222220000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222220000 +0000" stop="20211222230000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Primer impacto</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222230000 +0000" stop="20211222233000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222233000 +0000" stop="20211223000000 +0000" channel="Univision - Eastern Feed">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
   <programme start="20211220000000 -0800" stop="20211220003000 -0800" channel="LAFF Laff">
     <title lang="en">Stop Brain Fog</title>
     <desc lang="en">Get whole-brain support with NeuroQ! NeuroQ is formulated to help maintain healthy brain function, clear thinking, and memory.</desc>
@@ -2081,10 +2539,44 @@
     <sub-title lang="en">Pilot</sub-title>
     <desc lang="en">When Robin must leave in the middle of their first date, Ted can hardly wait to see her again, and his eagerness threatens to scare her away.</desc>
   </programme>
-  <programme start="20211220090000 -0800" stop="20211219230000 -0800" channel="LAFF Laff">
-    <title lang="en">Night Court</title>
-    <sub-title lang="en">It's Just a Joke</sub-title>
-    <desc lang="en">An offensive comic (Louis Mustillo) is hauled into Harry's court by a show-stopping conservative minister (Clifton James). With Harry Anderson.</desc>
+  <programme start="20211222030000 -0800" stop="20211222033000 -0800" channel="LAFF Laff">
+    <title lang="en">How I Met Your Mother</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">When Robin must leave in the middle of their first date, Ted can hardly wait to see her again, and his eagerness threatens to scare her away.</desc>
+  </programme>
+  <programme start="20211222033000 -0800" stop="20211222040000 -0800" channel="LAFF Laff">
+    <title lang="en">How I Met Your Mother</title>
+    <sub-title lang="en">Where Were We?</sub-title>
+    <desc lang="en">Newly single Lily goes to San Francisco; Ted, Barney and Robin try to cheer up unhappy Marshall.</desc>
+  </programme>
+  <programme start="20211222040000 -0800" stop="20211222043000 -0800" channel="LAFF Laff">
+    <title lang="en">World's Funniest Videos: Top 10 Countdown</title>
+    <desc lang="en">A unique themed view of completely relatable and entertaining real-life moments caught on video.</desc>
+  </programme>
+  <programme start="20211222043000 -0800" stop="20211222050000 -0800" channel="LAFF Laff">
+    <title lang="en">World's Funniest Videos: Top 10 Countdown</title>
+    <sub-title lang="en">Work Hard, Play Hard</sub-title>
+    <desc lang="en">Comfy hammocks falling apart, a high-powered flying lawn mower and outrageous office pranks.</desc>
+  </programme>
+  <programme start="20211222050000 -0800" stop="20211222053000 -0800" channel="LAFF Laff">
+    <title lang="en">According to Jim</title>
+    <sub-title lang="en">Charity Begins at Hef's</sub-title>
+    <desc lang="en">When Cheryl wins two tickets to visit Hugh Hefner at the Playboy Mansion, she decides to take Dana instead of Jim.</desc>
+  </programme>
+  <programme start="20211222053000 -0800" stop="20211222060000 -0800" channel="LAFF Laff">
+    <title lang="en">According to Jim</title>
+    <sub-title lang="en">The Race</sub-title>
+    <desc lang="en">Jim tries to teach Kyle a lesson about quitting by running a 10k marathon, but he ends up cheating in the race.</desc>
+  </programme>
+  <programme start="20211222060000 -0800" stop="20211220120000 -0800" channel="LAFF Laff">
+    <title lang="en">Grace Under Fire</title>
+    <sub-title lang="en">Grace Undergraduate</sub-title>
+    <desc lang="en">Grace and Nadine pay tribute to youth by crashing a fraternity party.</desc>
+  </programme>
+  <programme start="20211220120000 -0800" stop="20211219230000 -0800" channel="LAFF Laff">
+    <title lang="en">That '70s Show</title>
+    <sub-title lang="en">Baby Don't You Do It</sub-title>
+    <desc lang="en">Brooke (Shannon Elizabeth) sees red when Kelso burns down the police academy; Pastor Dan (Billy Dee Williams) provides premarital counseling to Eric and Donna.</desc>
   </programme>
   <programme start="20211220005900 -0600" stop="20211220030100 -0600" channel="atreseries_internacional">
     <title lang="es">Pop up: aquí no hay quien viva</title>
@@ -2534,8 +3026,11 @@
   <programme start="20211221025200 -0600" stop="20211221041400 -0600" channel="Canal FXM (Panregional)">
     <title lang="es">Venom</title>
   </programme>
-  <programme start="20211221041400 -0600" stop="20211221100000 -0600" channel="Canal FXM (Panregional)">
+  <programme start="20211221041400 -0600" stop="20211221080000 -0600" channel="Canal FXM (Panregional)">
     <title lang="es">Albóndigas</title>
+  </programme>
+  <programme start="20211221080000 -0600" stop="20211221100000 -0600" channel="Canal FXM (Panregional)">
+    <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20211221100000 -0600" stop="20211221100600 -0600" channel="Canal FXM (Panregional)">
     <title lang="es">Infomerciales</title>
@@ -3742,6 +4237,9 @@
   <programme start="20211221060000 -0600" stop="20211221061500 -0600" channel="azteca_uno">
     <title lang="es">Azteca Uno</title>
   </programme>
+  <programme start="20211221061500 -0600" stop="20211221081500 -0600" channel="azteca_uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
   <programme start="20211220023000 -0600" stop="20211220030000 -0600" channel="azteca_7">
     <title lang="es">Farmacias Similares</title>
   </programme>
@@ -4356,8 +4854,11 @@
   <programme start="20211221000000 -0600" stop="20211221010000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Paramédicos</title>
   </programme>
-  <programme start="20211221010000 -0600" stop="20211221020000 -0600" channel="Canal RCN Nuestra Tele">
-    <title lang="es">La noche</title>
+  <programme start="20211221010000 -0600" stop="20211221013000 -0600" channel="Canal RCN Nuestra Tele">
+    <title lang="es">Efecto naim</title>
+  </programme>
+  <programme start="20211221013000 -0600" stop="20211221020000 -0600" channel="Canal RCN Nuestra Tele">
+    <title lang="es">Tu Tele</title>
   </programme>
   <programme start="20211221020000 -0600" stop="20211221024000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">La luz de mis Ojos</title>
@@ -4365,55 +4866,67 @@
   <programme start="20211221024000 -0600" stop="20211221032000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">El Man es Germán</title>
   </programme>
-  <programme start="20211221032000 -0600" stop="20211221040000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211221032000 -0600" stop="20211221063000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Todo es Prestao</title>
   </programme>
-  <programme start="20211221040000 -0600" stop="20211221044000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211221063000 -0600" stop="20211222010000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Noticias RCN</title>
   </programme>
-  <programme start="20211221032000 -0600" stop="20211221044000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222010000 -0600" stop="20211222020000 -0600" channel="Canal RCN Nuestra Tele">
+    <title lang="es">La noche</title>
+  </programme>
+  <programme start="20211222020000 -0600" stop="20211222024000 -0600" channel="Canal RCN Nuestra Tele">
+    <title lang="es">La luz de mis Ojos</title>
+  </programme>
+  <programme start="20211222024000 -0600" stop="20211222032000 -0600" channel="Canal RCN Nuestra Tele">
+    <title lang="es">El Man es Germán</title>
+  </programme>
+  <programme start="20211222032000 -0600" stop="20211222040000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Todo es Prestao</title>
   </programme>
-  <programme start="20211221044000 -0600" stop="20211221054000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222040000 -0600" stop="20211222044000 -0600" channel="Canal RCN Nuestra Tele">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20211222044000 -0600" stop="20211222054000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Fin de transmisión</title>
   </programme>
-  <programme start="20211221054000 -0600" stop="20211221063000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222054000 -0600" stop="20211222063000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">El Mundo del Campo</title>
   </programme>
-  <programme start="20211221063000 -0600" stop="20211221083000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222063000 -0600" stop="20211222083000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Noticias RCN</title>
   </programme>
-  <programme start="20211221083000 -0600" stop="20211221100000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222083000 -0600" stop="20211222100000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Mañana express</title>
   </programme>
-  <programme start="20211221100000 -0600" stop="20211221123000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222100000 -0600" stop="20211222123000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Buen día Colombia</title>
   </programme>
-  <programme start="20211221123000 -0600" stop="20211221125000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222123000 -0600" stop="20211222125000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Novena de Aguinaldos</title>
   </programme>
-  <programme start="20211221125000 -0600" stop="20211221133000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222125000 -0600" stop="20211222133000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">A mano limpia</title>
   </programme>
-  <programme start="20211221133000 -0600" stop="20211221153000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222133000 -0600" stop="20211222153000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Noticias RCN</title>
   </programme>
-  <programme start="20211221153000 -0600" stop="20211221163000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222153000 -0600" stop="20211222163000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">En nombre del amor</title>
   </programme>
-  <programme start="20211221163000 -0600" stop="20211221175000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222163000 -0600" stop="20211222175000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Dr. Miracle</title>
   </programme>
-  <programme start="20211221175000 -0600" stop="20211221190000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222175000 -0600" stop="20211222190000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Rubí</title>
   </programme>
-  <programme start="20211221190000 -0600" stop="20211221200000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222190000 -0600" stop="20211222200000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">La Fuerza del Destino</title>
   </programme>
-  <programme start="20211221200000 -0600" stop="20211221210000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222200000 -0600" stop="20211222210000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Noticias RCN</title>
   </programme>
-  <programme start="20211221210000 -0600" stop="20211221230000 -0600" channel="Canal RCN Nuestra Tele">
+  <programme start="20211222210000 -0600" stop="20211222230000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Pura Sangre</title>
   </programme>
   <programme start="20211220000000 -0600" stop="20211220010000 -0600" channel="Canal Caracol Internacional">
@@ -4656,11 +5169,11 @@
   <programme start="20211220223000 -0600" stop="20211220230000 -0600" channel="7_de_puerto_rico_teleisla">
     <title lang="es">Worldlink</title>
   </programme>
-  <programme start="20211220230000 -0600" stop="20211221050000 -0600" channel="7_de_puerto_rico_teleisla">
+  <programme start="20211220230000 -0600" stop="20211221073000 -0600" channel="7_de_puerto_rico_teleisla">
     <title lang="es">Hablando de Salud</title>
   </programme>
-  <programme start="20211221050000 -0600" stop="20211221113000 -0600" channel="7_de_puerto_rico_teleisla">
-    <title lang="es">Hablando de Salud</title>
+  <programme start="20211221073000 -0600" stop="20211221113000 -0600" channel="7_de_puerto_rico_teleisla">
+    <title lang="es">En casa aprendo</title>
   </programme>
   <programme start="20211221113000 -0600" stop="20211222070000 -0600" channel="7_de_puerto_rico_teleisla">
     <title lang="es">Programa Pagado</title>
@@ -4875,6 +5388,851 @@
   <programme start="20211222211500 -0600" stop="20211222224500 -0600" channel="dhe">
     <title lang="es">Absolutamente todo</title>
   </programme>
+  <programme start="20211220023000 +0000" stop="20211220033000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf Central</title>
+    <desc lang="en">In-depth analysis, breaking news and highlights from throughout the world of golf.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220033000 +0000" stop="20211220073000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">Golf. Final Day Ritz-Carlton Golf Club, Orlando, Fla.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220073000 +0000" stop="20211220110000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">Golf. Final Day Ritz-Carlton Golf Club, Orlando, Fla.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220110000 +0000" stop="20211220120000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf Highlights</title>
+    <sub-title lang="en">2021 U.S. Women's Open: Yuka Saso at The Olympic Club</sub-title>
+    <desc lang="en">Highlights of golf events from around the U.S. and the world.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220120000 +0000" stop="20211220130000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf Highlights</title>
+    <sub-title lang="en">2021 U.S. Open: Jon Rahm at Torrey Pines Golf Course</sub-title>
+    <desc lang="en">Highlights of golf events from around the U.S. and the world.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220130000 +0000" stop="20211220155300 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Final Round Brooklawn Country Club, Fairfield, Conn.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220155300 +0000" stop="20211220175400 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Final Day Omaha Country Club, Omaha, Neb.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220175400 +0000" stop="20211220195400 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Championship Westchester Country Club, Harrison, N.Y.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220195400 +0000" stop="20211220215400 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Championship Oakmont Country Club, Oakmont, Pa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220215400 +0000" stop="20211221022500 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Final Day The Olympic Club, San Francisco, Calif.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221022500 +0000" stop="20211221073000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">PGA Golf. Final Round Torrey Pines Golf Course, San Diego, Calif.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221073000 +0000" stop="20211221093000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Championship Country Club of North Carolina, Pinehurst, N.C.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221093000 +0000" stop="20211221110000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">USGA Golf. Girls Championship Columbia Country Club, Chevy Chase, Md.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221110000 +0000" stop="20211221140000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">LPGA Golf. Final Round Mission Hills Country Club, Rancho Mirage, Calif.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221140000 +0000" stop="20211221170000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">LPGA Golf. Final Round Atlanta Athletic Club, Johns Creek, Ga.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221170000 +0000" stop="20211221200000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">LPGA Golf. Day 1 Inverness Club, Toledo, Ohio.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221200000 +0000" stop="20211221230000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">LPGA Golf. Day 2 Inverness Club, Toledo, Ohio.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221230000 +0000" stop="20211222050000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">LPGA Golf. Final Day Inverness Club, Toledo, Ohio.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222050000 +0000" stop="20211222080000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">Golf. Women's Final Round Evian Resort Golf Club, Evian-les-Bains, France.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222080000 +0000" stop="20211222110000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">LPGA Golf. Final Round Seaview Resort &amp; Spa, Galloway, N.J.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222110000 +0000" stop="20211222120000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf Films</title>
+    <sub-title lang="en">Hogan: Perseverance</sub-title>
+    <desc lang="en">Part one of this this two-part biopic reflects on the humble beginnings of Ben Hogan and the impact of the near-fatal car crash during the prime of his career.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222120000 +0000" stop="20211222130000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf Films</title>
+    <sub-title lang="en">Hogan: Perfection</sub-title>
+    <desc lang="en">Part two of this two-part biopic chronicles one of the greatest comebacks of all time. After a near-fatal car crash, Ben Hogan pressed on to become a 64-time PGA Tour winner and the inspiration for the 1951 motion picture 'Follow the Sun.'.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222130000 +0000" stop="20211222170000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">Golf. Day 1 Whistling Straits, Kohler, Wis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222170000 +0000" stop="20211222200000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">Golf. Day 2 Whistling Straits, Kohler, Wis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222200000 +0000" stop="20211223050000 +0000" channel="Golf Channel USA">
+    <title lang="en">Golf</title>
+    <desc lang="en">Golf. Final Day Whistling Straits, Kohler, Wis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220010000 +0000" stop="20211220020000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America</title>
+    <sub-title lang="en">Toy Car Wars</sub-title>
+    <desc lang="en">A young machinist puts a tiny toy car in a matchbox, igniting the Matchbox Toys craze. Mattel sees an opportunity, leading to Hot Wheels.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220020000 +0000" stop="20211220030300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America</title>
+    <sub-title lang="en">Board Game Empires</sub-title>
+    <desc lang="en">Milton Bradley creates the world's first board game, Life. Meanwhile, George S. Parker and his brothers make millions with a game called Monopoly.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220030300 +0000" stop="20211220033300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America: Snack Sized</title>
+    <sub-title lang="en">Real American Toy Heroes</sub-title>
+    <desc lang="en">Hasbro has grown from a textile and schools supplies business into the biggest toy company in the world.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220033300 +0000" stop="20211220040300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America: Snack Sized</title>
+    <sub-title lang="en">Way Past Go</sub-title>
+    <desc lang="en">Three brothers from Massachusetts turn an obscure form of entertainment into a billion-dollar global industry.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220040300 +0000" stop="20211220050300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America</title>
+    <sub-title lang="en">Clash of the Toy Titans</sub-title>
+    <desc lang="en">Ruth and Elliott Handler walk away from a successful furniture company to start a toy company called Mattel. They're soon challenged by another toy titan, Merrill Hassenfeld, and his company, Hasbro.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220050300 +0000" stop="20211220060600 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America</title>
+    <sub-title lang="en">Board Game Empires</sub-title>
+    <desc lang="en">Milton Bradley creates the world's first board game, Life. Meanwhile, George S. Parker and his brothers make millions with a game called Monopoly.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220060600 +0000" stop="20211220063600 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America: Snack Sized</title>
+    <sub-title lang="en">Real American Toy Heroes</sub-title>
+    <desc lang="en">Hasbro has grown from a textile and schools supplies business into the biggest toy company in the world.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220063600 +0000" stop="20211220070600 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America: Snack Sized</title>
+    <sub-title lang="en">Way Past Go</sub-title>
+    <desc lang="en">Three brothers from Massachusetts turn an obscure form of entertainment into a billion-dollar global industry.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220070600 +0000" stop="20211220080400 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America</title>
+    <sub-title lang="en">Toy Car Wars</sub-title>
+    <desc lang="en">A young machinist puts a tiny toy car in a matchbox, igniting the Matchbox Toys craze. Mattel sees an opportunity, leading to Hot Wheels.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220080400 +0000" stop="20211220090200 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Toys That Built America</title>
+    <sub-title lang="en">Clash of the Toy Titans</sub-title>
+    <desc lang="en">Ruth and Elliott Handler walk away from a successful furniture company to start a toy company called Mattel. They're soon challenged by another toy titan, Merrill Hassenfeld, and his company, Hasbro.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220090200 +0000" stop="20211220093000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220093000 +0000" stop="20211220100000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220100000 +0000" stop="20211220103000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220103000 +0000" stop="20211220110000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220110000 +0000" stop="20211220113000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Amazing Facts Presents</title>
+    <desc lang="en">Depicting the Bible's teachings about heaven, marriage and everyday life.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220113000 +0000" stop="20211220120000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">David Jeremiah</title>
+    <desc lang="en">Dr. David Jeremiah will help you discover God's truth through practical, life-changing, Bible teachings and apply them to circumstances in your life today.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220120000 +0000" stop="20211220130000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">Aliens, Gods and Heroes</sub-title>
+    <desc lang="en">Throughout history, mankind has told incredible tales of gods with extraordinary powers. Learn if these are just stories or if they are based on facts.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220130000 +0000" stop="20211220140000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">Aliens and the Creation of Man</sub-title>
+    <desc lang="en">Look at why we humans are so different from every other living thing on earth, and whether aliens come into play.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220140000 +0000" stop="20211220150000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">Alien Messages</sub-title>
+    <desc lang="en">Some believe that embedded in our most sacred religious texts, as well as in the design and location of ancient monuments, are secret messages that may reveal the purpose behind our very existence.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220150000 +0000" stop="20211220160000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">Dark Forces</sub-title>
+    <desc lang="en">In nearly every culture there are stories of opposing forces at work here on Earth, forces of a supernatural or otherworldly nature. Explore whether or not these forces really exist and what is the true nature of the dark forces.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220160000 +0000" stop="20211220170000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Pharaohs' Curse</sub-title>
+    <desc lang="en">According to legend, an ancient curse was placed upon the tomb of King Tutankhamun. When the tomb was opened in 1922, a series of terrible events occurred. Ancient Astronaut theorists suggest that The Pharaoh\u2019s Curse was put in place to protect the truth.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220170000 +0000" stop="20211220180000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">Return to Gobekli Tepe</sub-title>
+    <desc lang="en">Modern archaeologists are having to rethink humanity's past thanks to the ancient site of Gobekli Tepe. The complex was constructed 6,500 years before Stonehenge and 5,000 years before the first signs of civilization in Mesopotamia.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220180000 +0000" stop="20211220190000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">Russia Declassified</sub-title>
+    <desc lang="en">Learn about a secret alliance hidden in plain sight and joint space missions with undisclosed agendas.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220190000 +0000" stop="20211220200000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Badlands Guardian</sub-title>
+    <desc lang="en">We investigate the giant face that appears to have been carved into the Earth in Alberta, Canada which has become known as 'The Badlands Guardian'.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220200000 +0000" stop="20211220210000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Star Gods of Sirius</sub-title>
+    <desc lang="en">Learn if aliens from the tiny star Sirius B visited humans in the distant past, imparting the knowledge of a civilization of people thousands of miles apart. They may have left behind a clue in the form of a word that's embedded all over the globe.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220210000 +0000" stop="20211220220000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">They Came From the Sea</sub-title>
+    <desc lang="en">Lurking in our oceans are creatures that defy explanation. Octopuses can edit their own DNA, animals are able to regenerate their entire brains, and jellyfish can literally live forever. Learn is they were delivered to Earth by extraterrestrials.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220220000 +0000" stop="20211220230000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Ultimate Guide to UFOs</sub-title>
+    <desc lang="en">UFO witnesses have reported a wide variety of objects in Earth's skies, and not only in modern times, but for centuries.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220230000 +0000" stop="20211221000000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Galactic Keyhole</sub-title>
+    <desc lang="en">The symbol of the keyhole exists in ancient texts, architecture and artwork. It could be a profound connection to the cosmos and a clue left behind by extraterrestrials.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221000000 +0000" stop="20211221010000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens</title>
+    <sub-title lang="en">The Human Experiment</sub-title>
+    <desc lang="en">Giorgio A. Tsoukalos, David Childress, William Henry, Rabbi Ariel bar Tzadok and Caroline Cory investigate the mystery of the Human genome to determine if humans are the product of an experiment.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221010000 +0000" stop="20211221050300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens: Declassified</title>
+    <sub-title lang="en">Sacred Origins</sub-title>
+    <desc lang="en">Learn about The Book of Enoch, India's Sanskrit texts, the food of the gods and ancient reptilian entities.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221050300 +0000" stop="20211221090200 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Ancient Aliens: Declassified</title>
+    <sub-title lang="en">Sacred Origins</sub-title>
+    <desc lang="en">Learn about The Book of Enoch, India's Sanskrit texts, the food of the gods and ancient reptilian entities.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221090200 +0000" stop="20211221093000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221093000 +0000" stop="20211221100000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221100000 +0000" stop="20211221103000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221103000 +0000" stop="20211221110000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221110000 +0000" stop="20211221113000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Amazing Facts Presents</title>
+    <desc lang="en">Depicting the Bible's teachings about heaven, marriage and everyday life.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221113000 +0000" stop="20211221120000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">David Jeremiah</title>
+    <desc lang="en">Dr. David Jeremiah will help you discover God's truth through practical, life-changing, Bible teachings and apply them to circumstances in your life today.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221120000 +0000" stop="20211221130000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Bible Secrets Revealed</title>
+    <sub-title lang="en">The Real Jesus</sub-title>
+    <desc lang="en">Nearly everything we know about the life of Jesus comes from the four Gospels of Matthew, Mark, Luke and John.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221130000 +0000" stop="20211221150000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Jesus Strand: A Search for DNA</title>
+    <desc lang="en">Science and faith come together on a quest to trace Jesus' DNA. Geneticist George Busby and biblical scholar Pastor Joe Basile examine sacred artifacts at a variety of holy sites, extracting samples of the relics to uncover Jesus' modern descendants.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221150000 +0000" stop="20211221170000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">God Code</title>
+    <desc lang="en">St. Petersburg, Russia keeps watch over the Leningrad Codex, the oldest complete text of the Hebrew Bible in the world. Within its pages, antiquities expert Timothy Smith believes there lies an intricate code, one no present in later translations.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221170000 +0000" stop="20211221190000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Last Pope?</title>
+    <desc lang="en">Over 900 years ago, a Catholic saint, Malachy, received a prophecy regarding the identities of future popes, along with the end of the Papacy. Pope Francis, it seems, is destined to be the last pope, possibly signalling a coming apocalypse.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211221190000 +0000" stop="20211221210000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Banned From the Bible</title>
+    <desc lang="en">We scrutinize ancient writings that didn't 'make the cut' in the battle to create a Christian Bible in the new religion's first few centuries. Biblical archaeologists and scholars examine why they were left out and if others might yet be found.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221210000 +0000" stop="20211221230000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Banned From the Bible II</title>
+    <desc lang="en">Take a second look at what didn't make it in the battle to create a Christian Bible.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221230000 +0000" stop="20211222000000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">Hatching the Plan</sub-title>
+    <desc lang="en">The team realizes that they may have been reading Zena Halpern's Templar map incorrectly all along.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222000000 +0000" stop="20211222010000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">The Root Cause</sub-title>
+    <desc lang="en">The team uncovers evidence that the stone road was built long before the discovery of the original Money Pit.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222010000 +0000" stop="20211222020000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">It All Adze Up</sub-title>
+    <desc lang="en">The team narrows in on the suspects behind the Oak Island mystery as the swamp reveals more secrets.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222020000 +0000" stop="20211222030300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">Deeper Digs, Bigger Stakes</sub-title>
+    <desc lang="en">The fellowship uncovers more evidence of a ship buried in the swamp. Rick hones in on his white whale: shaft six.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222030300 +0000" stop="20211222040500 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Great Escapes with Morgan Freeman</title>
+    <sub-title lang="en">Fleeing Hellmira</sub-title>
+    <desc lang="en">Two murderers make an audacious rooftop escape from the 40-foot high Elmira State Prison.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222040500 +0000" stop="20211222050300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">The Root Cause</sub-title>
+    <desc lang="en">The team uncovers evidence that the stone road was built long before the discovery of the original Money Pit.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222050300 +0000" stop="20211222060300 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">It All Adze Up</sub-title>
+    <desc lang="en">The team narrows in on the suspects behind the Oak Island mystery as the swamp reveals more secrets.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222060300 +0000" stop="20211222070600 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">Deeper Digs, Bigger Stakes</sub-title>
+    <desc lang="en">The fellowship uncovers more evidence of a ship buried in the swamp. Rick hones in on his white whale: shaft six.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222070600 +0000" stop="20211222080600 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Great Escapes with Morgan Freeman</title>
+    <sub-title lang="en">Fleeing Hellmira</sub-title>
+    <desc lang="en">Two murderers make an audacious rooftop escape from the 40-foot high Elmira State Prison.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222080600 +0000" stop="20211222090200 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">The Curse of Oak Island</title>
+    <sub-title lang="en">The Root Cause</sub-title>
+    <desc lang="en">The team uncovers evidence that the stone road was built long before the discovery of the original Money Pit.</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222090200 +0000" stop="20211222093000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222093000 +0000" stop="20211222100000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222100000 +0000" stop="20211222103000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222103000 +0000" stop="20211222110000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Info-Documentaries</title>
+    <desc lang="en">Informational programming.</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222110000 +0000" stop="20211222113000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Amazing Facts Presents</title>
+    <desc lang="en">Depicting the Bible's teachings about heaven, marriage and everyday life.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222113000 +0000" stop="20211222120000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">David Jeremiah</title>
+    <desc lang="en">Dr. David Jeremiah will help you discover God's truth through practical, life-changing, Bible teachings and apply them to circumstances in your life today.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222120000 +0000" stop="20211222130000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">Khopesh</sub-title>
+    <desc lang="en">This week our bladesmiths are given a 'twisted' challenge when they are asked to forge a weapon from cable steel. The competition slowly unravels as they handle this difficult steel.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222130000 +0000" stop="20211222140000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">Cavalry Saber</sub-title>
+    <desc lang="en">Four new bladesmiths face the unprecedented challenge of forging the barrel of a gun into a lethal knife. The final two bladesmiths return home, where they have five days to forge one of the most legendary blades in combat history.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222140000 +0000" stop="20211222150000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">The Katzbalger</sub-title>
+    <desc lang="en">For the first time ever, the competitors are challenged with creating not one, but two blades in the first round. With double the pressure and double the work, the bladesmiths are pushed to their limits.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222150000 +0000" stop="20211222160000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">Sword Breaker Redemption</sub-title>
+    <desc lang="en">Four previous competitors get a second chance to prove their skills, but it won't be easy. The four must forge their signature blade with only recycled steel from a jackhammer. The final two competitors must recreate a 16th century sword breaker.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222160000 +0000" stop="20211222170000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">The Navaja</sub-title>
+    <desc lang="en">A rock quarry is the setting for the first challenge, where four smiths must make blades with harvested steel and coal forges. Two rounds later, the final smiths are tasked with recreating the foldable Spanish Navaja in their home forges.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222170000 +0000" stop="20211222180000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">The Naval Cutlass</sub-title>
+    <desc lang="en">Four military veterans, all of whom are bladesmiths, must forge a combat knife from an anti-tank hedgehog. Two challenging rounds of competition lead the final two smiths back to their home forges in order to recreate the M1917 naval cutlass.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222180000 +0000" stop="20211222190000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">Hollywood Edition</sub-title>
+    <desc lang="en">In this special episode, four bladesmiths pay homage to the blade craft of Hollywood. Their first mission is to forge a survival knife to make John Rambo proud. The final smiths must recreate Hattori Hanzo's 1000-layer Katana from 'Kill Bill.'.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222190000 +0000" stop="20211222200000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">The Steel Crossbow</sub-title>
+    <desc lang="en">Four bladesmiths go back to basics when they're tasked with creating a signature Damascus blade out of three different steels of different thicknesses. In the first round, welding problems arise, and a parameter failure sends one smith packing.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222200000 +0000" stop="20211222210000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">The Ram Dao</sub-title>
+    <desc lang="en">Four bladesmiths must forge a kukri with steel from an old snowmobile using only hand tools, and the dreaded coal forge. The two finalists are tasked with forging a massive and intricate sacrificial sword from South Asia, the Ram Dao.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222210000 +0000" stop="20211222220000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">Japanese Ono</sub-title>
+    <desc lang="en">Four smiths are tasked with forging a blade that must fit perfectly into a puzzle piece cut out. After two puzzling rounds, the final two smiths return home to recreate the ancient samurai pole axe, the Japanese Ono.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222220000 +0000" stop="20211222230000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">Machete of the Amazons</sub-title>
+    <desc lang="en">The judges give the competitors the opportunity to choose their own challenge. After intense testing, two smiths return home to recreate the Dahomey Machete.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222230000 +0000" stop="20211223000000 +0000" channel="History Channel US - Eastern Feed">
+    <title lang="en">Forged in Fire</title>
+    <sub-title lang="en">Barrel Full of Mystery</sub-title>
+    <desc lang="en">Four smiths are given a tough choice regarding the steel they use to make a san mai blade. Afterwards, two smiths head home to forge the Belgian Walloon Sword.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
   <programme start="20211220010000 -0600" stop="20211220013000 -0600" channel="Canal Punto 2 Puerto Rico">
     <title lang="es">Operación Chef</title>
   </programme>
@@ -5019,7 +6377,7 @@
   <programme start="20211221033000 -0600" stop="20211221043000 -0600" channel="Canal Punto 2 Puerto Rico">
     <title lang="es">El final del paraíso</title>
   </programme>
-  <programme start="20211221043000 -0600" stop="20211221050000 -0600" channel="Canal Punto 2 Puerto Rico">
+  <programme start="20211221043000 -0600" stop="20211221080000 -0600" channel="Canal Punto 2 Puerto Rico">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
     <date>2005</date>
@@ -5030,8 +6388,8 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20211221050000 -0600" stop="20211221140000 -0600" channel="Canal Punto 2 Puerto Rico">
-    <title lang="es">Suelta la Sopa</title>
+  <programme start="20211221080000 -0600" stop="20211221140000 -0600" channel="Canal Punto 2 Puerto Rico">
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20211221140000 -0600" stop="20211221143000 -0600" channel="Canal Punto 2 Puerto Rico">
     <title lang="es">Programa Pagado</title>
@@ -5326,6 +6684,1426 @@
   </programme>
   <programme start="20211222202300 -0600" stop="20211222222200 -0600" channel="Canal TNT la">
     <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20211220000000 +0000" stop="20211220040000 +0000" channel="ABC-PR">
+    <title lang="en">The Sound of Music</title>
+    <desc lang="en">A woman with a love for music leaves an Austrian convent to become a governess to a widower's seven children. As she struggles to bring the family closer, she discovers that she may have feelings for the children's father.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Musical</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220040000 +0000" stop="20211220050000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 11:00 p.m. Sunday</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220050000 +0000" stop="20211220053000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220053000 +0000" stop="20211220060000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220060000 +0000" stop="20211220063000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220063000 +0000" stop="20211220070000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220070000 +0000" stop="20211220090000 +0000" channel="ABC-PR">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">This news broadcast presents the morning's top stories and breaking news from around the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220090000 +0000" stop="20211220110000 +0000" channel="ABC-PR">
+    <title lang="en">America This Morning</title>
+    <desc lang="en">This morning newscast features top headlines, sports results and financial news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220110000 +0000" stop="20211220120000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220120000 +0000" stop="20211220140000 +0000" channel="ABC-PR">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Lily Collins, George Clooney, Brett Eldredge and Eden Grinshpan are guests.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220140000 +0000" stop="20211220143000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220143000 +0000" stop="20211220150000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220150000 +0000" stop="20211220153000 +0000" channel="ABC-PR">
+    <title lang="en">Primetime</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220153000 +0000" stop="20211220160000 +0000" channel="ABC-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220160000 +0000" stop="20211220170000 +0000" channel="ABC-PR">
+    <title lang="en">The View</title>
+    <desc lang="en">Former Secretary of State Condoleezza Rice guest co-hosts.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211220170000 +0000" stop="20211220180000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220180000 +0000" stop="20211220190000 +0000" channel="ABC-PR">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Sara Nelson, Andrew Zimmern and Dallas Jenkins join the hosts.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220190000 +0000" stop="20211220200000 +0000" channel="ABC-PR">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Scott is concerned about Nina\u2019s impending hearing. Nina seeks Phyllis\u2019 ear. Willow feels raw as she\u2019s reminded of her past. Carly checks in with Michael. Spencer gets an unexpected visitor at Kelly\u2019s.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211220200000 +0000" stop="20211220203000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220203000 +0000" stop="20211220210000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220210000 +0000" stop="20211220214500 +0000" channel="ABC-PR">
+    <title lang="en">A Fondo</title>
+    <desc lang="en">El conocido presentador, Juan Manuel Cao, ofrece un an\u00e1lisis profundo de las noticias m\u00e1s relevantes.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220214500 +0000" stop="20211220220000 +0000" channel="ABC-PR">
+    <title lang="en">La semana</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220220000 +0000" stop="20211220223000 +0000" channel="ABC-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220223000 +0000" stop="20211220230000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 5:00 p.m.</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220230000 +0000" stop="20211220233000 +0000" channel="ABC-PR">
+    <title lang="en">ABC News Extra</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220233000 +0000" stop="20211221000000 +0000" channel="ABC-PR">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221000000 +0000" stop="20211221003000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 6:00 p.m.</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221003000 +0000" stop="20211221010000 +0000" channel="ABC-PR">
+    <title lang="en">Primetime</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221010000 +0000" stop="20211221041500 +0000" channel="ABC-PR">
+    <title lang="en">Football</title>
+    <sub-title lang="en">Minnesota Vikings vs. Chicago Bears</sub-title>
+    <desc lang="en">NFL Football. Minnesota Vikings vs. Chicago Bears. Soldier Field, Chicago, Ill.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221041500 +0000" stop="20211221045000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 11:00 p.m.</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221045000 +0000" stop="20211221055200 +0000" channel="ABC-PR">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon and Black Pumas join Jimmy.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211221055200 +0000" stop="20211221062100 +0000" channel="ABC-PR">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221062100 +0000" stop="20211221070000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221070000 +0000" stop="20211221090000 +0000" channel="ABC-PR">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">This news broadcast presents the morning's top stories and breaking news from around the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221090000 +0000" stop="20211221110000 +0000" channel="ABC-PR">
+    <title lang="en">America This Morning</title>
+    <desc lang="en">This morning newscast features top headlines, sports results and financial news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221110000 +0000" stop="20211221120000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221120000 +0000" stop="20211221140000 +0000" channel="ABC-PR">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">The hosts welcome Neil Patrick Harris, Reba McEntire, Amy Robach and Damaris Phillips.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221140000 +0000" stop="20211221143000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221143000 +0000" stop="20211221150000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221150000 +0000" stop="20211221153000 +0000" channel="ABC-PR">
+    <title lang="en">Primetime</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221153000 +0000" stop="20211221160000 +0000" channel="ABC-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221160000 +0000" stop="20211221170000 +0000" channel="ABC-PR">
+    <title lang="en">The View</title>
+    <desc lang="en">TV host Tamron Hall and author Carla Hall visit.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211221170000 +0000" stop="20211221180000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221180000 +0000" stop="20211221190000 +0000" channel="ABC-PR">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">Dr. Lee Beers, Audrey Hendley, Eric Adjepong and Kendrick Sampson are guests.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221190000 +0000" stop="20211221200000 +0000" channel="ABC-PR">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Santa Claus\u2019 appearance at General Hospital results in a surprising reunion. Drew and Elizabeth see each other for the first time since his return to town. Spencer catches Trina and Nikolas in conversation. Finn brings Violet to holiday tea.</desc>
+    <category lang="en">Soaps</category>
+    <category lang="en">Christmas</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211221200000 +0000" stop="20211221203000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221203000 +0000" stop="20211221210000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221210000 +0000" stop="20211221213000 +0000" channel="ABC-PR">
+    <title lang="en">Enlaces</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221213000 +0000" stop="20211221220000 +0000" channel="ABC-PR">
+    <title lang="en">Esc\u00e1pate</title>
+    <category lang="en">Travel</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221220000 +0000" stop="20211221223000 +0000" channel="ABC-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221223000 +0000" stop="20211221230000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 5:00 p.m.</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221230000 +0000" stop="20211221233000 +0000" channel="ABC-PR">
+    <title lang="en">ABC News Extra</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221233000 +0000" stop="20211222000000 +0000" channel="ABC-PR">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222000000 +0000" stop="20211222003000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 6:00 p.m.</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222003000 +0000" stop="20211222010000 +0000" channel="ABC-PR">
+    <title lang="en">Primetime</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222010000 +0000" stop="20211222030300 +0000" channel="ABC-PR">
+    <title lang="en">The Bachelorette</title>
+    <desc lang="en">With two suitors remaining, Michelle's family joins her in Mexico to get to know the men who may be joining their family. After each man meets the family and has one final date, Michelle has a life changing decision to make.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222030300 +0000" stop="20211222040000 +0000" channel="ABC-PR">
+    <title lang="en">The Bachelorette</title>
+    <sub-title lang="en">After the Final Rose</sub-title>
+    <desc lang="en">The roses have all been handed out and Michelle Young returns. Emotional discussions of love and heartbreak with the final two men are explored. Plus, appearances from fan favourites and special surprises.</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222040000 +0000" stop="20211222043500 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 11:00 p.m.</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222043500 +0000" stop="20211222053500 +0000" channel="ABC-PR">
+    <title lang="en">Jimmy Kimmel Live</title>
+    <desc lang="en">Jon Bernthal, Michelle Young and Parker McCollum visit.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211222053500 +0000" stop="20211222060600 +0000" channel="ABC-PR">
+    <title lang="en">ABC News Nightline</title>
+    <desc lang="en">This half-hour program provides viewers with in-depth reporting on the major stories in the news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222060600 +0000" stop="20211222063000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222063000 +0000" stop="20211222070000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222070000 +0000" stop="20211222090000 +0000" channel="ABC-PR">
+    <title lang="en">ABC World News Now</title>
+    <desc lang="en">This news broadcast presents the morning's top stories and breaking news from around the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222090000 +0000" stop="20211222110000 +0000" channel="ABC-PR">
+    <title lang="en">America This Morning</title>
+    <desc lang="en">This morning newscast features top headlines, sports results and financial news.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222110000 +0000" stop="20211222120000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222120000 +0000" stop="20211222140000 +0000" channel="ABC-PR">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Guests include Michelle Young, Chris Tomlin and Dan Pelosi.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222140000 +0000" stop="20211222143000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222143000 +0000" stop="20211222150000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222150000 +0000" stop="20211222153000 +0000" channel="ABC-PR">
+    <title lang="en">Primetime</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222153000 +0000" stop="20211222160000 +0000" channel="ABC-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222160000 +0000" stop="20211222170000 +0000" channel="ABC-PR">
+    <title lang="en">The View</title>
+    <desc lang="en">Guests include Rita Moreno.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211222170000 +0000" stop="20211222180000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222180000 +0000" stop="20211222190000 +0000" channel="ABC-PR">
+    <title lang="en">GMA3: What You Need to Know</title>
+    <desc lang="en">The hosts welcome Dr. Ernest Grant and Sheryl Lee Ralph.</desc>
+    <category lang="en">Talk Shows</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222190000 +0000" stop="20211222200000 +0000" channel="ABC-PR">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Sonny and Carly revel in holiday time with their family. Monica hosts guests at the Quartermaine mansion. Brando is by Sasha\u2019s side as she\u2019s released. Epiphany meets Marshall when he volunteers at the hospital. It's raucous at Alexis' holiday gathering.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20211222200000 +0000" stop="20211222203000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222203000 +0000" stop="20211222210000 +0000" channel="ABC-PR">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222210000 +0000" stop="20211222213000 +0000" channel="ABC-PR">
+    <title lang="en">Fuerza Latina</title>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222213000 +0000" stop="20211222220000 +0000" channel="ABC-PR">
+    <title lang="en">Aqui Estoy</title>
+    <category lang="en">Religious</category>
+  </programme>
+  <programme start="20211222220000 +0000" stop="20211222223000 +0000" channel="ABC-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222223000 +0000" stop="20211222230000 +0000" channel="ABC-PR">
+    <title lang="en">Eyewitness News at 5:00 p.m.</title>
+    <desc lang="en">News.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222230000 +0000" stop="20211222233000 +0000" channel="ABC-PR">
+    <title lang="en">ABC News Extra</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222233000 +0000" stop="20211223000000 +0000" channel="ABC-PR">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest information and analysis of major events from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220000000 +0000" stop="20211220003000 +0000" channel="Mega-PR">
+    <title lang="en">Noticiero Sercano</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220003000 +0000" stop="20211220010000 +0000" channel="Mega-PR">
+    <title lang="en">Latin Angels</title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20211220010000 +0000" stop="20211220020000 +0000" channel="Mega-PR">
+    <title lang="en">Teresa</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211220020000 +0000" stop="20211220030000 +0000" channel="Mega-PR">
+    <title lang="en">Mega Especiales</title>
+    <sub-title lang="en">Roberto Clemente</sub-title>
+    <category lang="en">Specials</category>
+  </programme>
+  <programme start="20211220030000 +0000" stop="20211220040000 +0000" channel="Mega-PR">
+    <title lang="en">Cu\u00e9ntame</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220040000 +0000" stop="20211220043000 +0000" channel="Mega-PR">
+    <title lang="en">Latin Angels</title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20211220043000 +0000" stop="20211220050000 +0000" channel="Mega-PR">
+    <title lang="en">Show Business</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220050000 +0000" stop="20211220060000 +0000" channel="Mega-PR">
+    <title lang="en">Hoy con Tomas Regalado</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220060000 +0000" stop="20211220070000 +0000" channel="Mega-PR">
+    <title lang="en">Testigo Directo</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220070000 +0000" stop="20211220080000 +0000" channel="Mega-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220080000 +0000" stop="20211220090000 +0000" channel="Mega-PR">
+    <title lang="en">Prime Time Show</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211220090000 +0000" stop="20211220100000 +0000" channel="Mega-PR">
+    <title lang="en">Destinos M\u00edsticos</title>
+    <category lang="en">Travel</category>
+  </programme>
+  <programme start="20211220100000 +0000" stop="20211220103000 +0000" channel="Mega-PR">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220103000 +0000" stop="20211220110000 +0000" channel="Mega-PR">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Paid Program</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220110000 +0000" stop="20211220130000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Circo de Puerto Rico</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220130000 +0000" stop="20211220140000 +0000" channel="Mega-PR">
+    <title lang="en">Naci\u00f3n Z</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220140000 +0000" stop="20211220150000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Vacil\u00f3n de la Gatita</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220150000 +0000" stop="20211220160000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Vacil\u00f3n de Nueva York</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220160000 +0000" stop="20211220163000 +0000" channel="Mega-PR">
+    <title lang="en">Prime Time Show</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211220163000 +0000" stop="20211220170000 +0000" channel="Mega-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220170000 +0000" stop="20211220190000 +0000" channel="Mega-PR">
+    <title lang="en">Buen D\u00eda</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220190000 +0000" stop="20211220200000 +0000" channel="Mega-PR">
+    <title lang="en">Testigo Directo</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220200000 +0000" stop="20211220210000 +0000" channel="Mega-PR">
+    <title lang="en">Buena Vida</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211220210000 +0000" stop="20211220220000 +0000" channel="Mega-PR">
+    <title lang="en">Hablando Claro Con El Padre Alberto</title>
+    <desc lang="en">Una perspectiva moderna a los dilemas de la vida cotidiana.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220220000 +0000" stop="20211220230000 +0000" channel="Mega-PR">
+    <title lang="en">Mega News Edici\u00f3n de la Tarde con Mario Andr\u00e9s Moreno</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220230000 +0000" stop="20211221000000 +0000" channel="Mega-PR">
+    <title lang="en">Tiempo de Amar</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221000000 +0000" stop="20211221003000 +0000" channel="Mega-PR">
+    <title lang="en">Noticiero Sercano</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221003000 +0000" stop="20211221010000 +0000" channel="Mega-PR">
+    <title lang="en">Informe 79</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221010000 +0000" stop="20211221020000 +0000" channel="Mega-PR">
+    <title lang="en">Ahora con Oscar Haza</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20211221020000 +0000" stop="20211221030500 +0000" channel="Mega-PR">
+    <title lang="en">Bayly</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20211221030500 +0000" stop="20211221040000 +0000" channel="Mega-PR">
+    <title lang="en">Sevcec</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221040000 +0000" stop="20211221050000 +0000" channel="Mega-PR">
+    <title lang="en">El Jelengue</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211221050000 +0000" stop="20211221060000 +0000" channel="Mega-PR">
+    <title lang="en">Mega Noche con H\u00e9ctor Marcano</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211221060000 +0000" stop="20211221070000 +0000" channel="Mega-PR">
+    <title lang="en">La Movida</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20211221070000 +0000" stop="20211221080000 +0000" channel="Mega-PR">
+    <title lang="en">Los HP</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20211221080000 +0000" stop="20211221090000 +0000" channel="Mega-PR">
+    <title lang="en">Ahora con Oscar Haza</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20211221090000 +0000" stop="20211221100000 +0000" channel="Mega-PR">
+    <title lang="en">Sevcec</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221100000 +0000" stop="20211221110000 +0000" channel="Mega-PR">
+    <title lang="en">El Jelengue</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211221110000 +0000" stop="20211221130000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Circo de Puerto Rico</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211221130000 +0000" stop="20211221140000 +0000" channel="Mega-PR">
+    <title lang="en">Naci\u00f3n Z</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211221140000 +0000" stop="20211221150000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Vacil\u00f3n de la Gatita</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211221150000 +0000" stop="20211221160000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Vacil\u00f3n de Nueva York</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211221160000 +0000" stop="20211221163000 +0000" channel="Mega-PR">
+    <title lang="en">Prime Time Show</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211221163000 +0000" stop="20211221170000 +0000" channel="Mega-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221170000 +0000" stop="20211221190000 +0000" channel="Mega-PR">
+    <title lang="en">Buen D\u00eda</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211221190000 +0000" stop="20211221200000 +0000" channel="Mega-PR">
+    <title lang="en">Teresa</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221200000 +0000" stop="20211221210000 +0000" channel="Mega-PR">
+    <title lang="en">Buena Vida</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211221210000 +0000" stop="20211221220000 +0000" channel="Mega-PR">
+    <title lang="en">Hablando Claro Con El Padre Alberto</title>
+    <desc lang="en">Una perspectiva moderna a los dilemas de la vida cotidiana.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221220000 +0000" stop="20211221230000 +0000" channel="Mega-PR">
+    <title lang="en">Mega News Edici\u00f3n de la Tarde con Mario Andr\u00e9s Moreno</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221230000 +0000" stop="20211222000000 +0000" channel="Mega-PR">
+    <title lang="en">Tiempo de Amar</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211222000000 +0000" stop="20211222003000 +0000" channel="Mega-PR">
+    <title lang="en">Noticiero Sercano</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222003000 +0000" stop="20211222010000 +0000" channel="Mega-PR">
+    <title lang="en">Informe 79</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222010000 +0000" stop="20211222020000 +0000" channel="Mega-PR">
+    <title lang="en">Ahora con Oscar Haza</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20211222020000 +0000" stop="20211222030500 +0000" channel="Mega-PR">
+    <title lang="en">Bayly</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20211222030500 +0000" stop="20211222040000 +0000" channel="Mega-PR">
+    <title lang="en">Sevcec</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222040000 +0000" stop="20211222050000 +0000" channel="Mega-PR">
+    <title lang="en">El Jelengue</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211222050000 +0000" stop="20211222060000 +0000" channel="Mega-PR">
+    <title lang="en">Mega Noche con H\u00e9ctor Marcano</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211222060000 +0000" stop="20211222070000 +0000" channel="Mega-PR">
+    <title lang="en">La Movida</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20211222070000 +0000" stop="20211222080000 +0000" channel="Mega-PR">
+    <title lang="en">Los HP</title>
+    <category lang="en">Regular</category>
+  </programme>
+  <programme start="20211222080000 +0000" stop="20211222090000 +0000" channel="Mega-PR">
+    <title lang="en">Ahora con Oscar Haza</title>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme start="20211222090000 +0000" stop="20211222100000 +0000" channel="Mega-PR">
+    <title lang="en">Sevcec</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222100000 +0000" stop="20211222110000 +0000" channel="Mega-PR">
+    <title lang="en">El Jelengue</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211222110000 +0000" stop="20211222130000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Circo de Puerto Rico</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211222130000 +0000" stop="20211222140000 +0000" channel="Mega-PR">
+    <title lang="en">Naci\u00f3n Z</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211222140000 +0000" stop="20211222150000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Vacil\u00f3n de la Gatita</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211222150000 +0000" stop="20211222160000 +0000" channel="Mega-PR">
+    <title lang="en">Radio en Televisi\u00f3n: El Vacil\u00f3n de Nueva York</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211222160000 +0000" stop="20211222163000 +0000" channel="Mega-PR">
+    <title lang="en">Prime Time Show</title>
+    <category lang="en">Talk Shows</category>
+  </programme>
+  <programme start="20211222163000 +0000" stop="20211222170000 +0000" channel="Mega-PR">
+    <title lang="en">Punto Final con Carmen Jovet</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222170000 +0000" stop="20211222190000 +0000" channel="Mega-PR">
+    <title lang="en">Buen D\u00eda</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211222190000 +0000" stop="20211222200000 +0000" channel="Mega-PR">
+    <title lang="en">Impacto TDN</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222200000 +0000" stop="20211222210000 +0000" channel="Mega-PR">
+    <title lang="en">Buena Vida</title>
+    <category lang="en">Discussion</category>
+  </programme>
+  <programme start="20211222210000 +0000" stop="20211222220000 +0000" channel="Mega-PR">
+    <title lang="en">Hablando Claro Con El Padre Alberto</title>
+    <desc lang="en">Una perspectiva moderna a los dilemas de la vida cotidiana.</desc>
+    <category lang="en">Religious</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222220000 +0000" stop="20211222230000 +0000" channel="Mega-PR">
+    <title lang="en">Mega News Edici\u00f3n de la Tarde con Mario Andr\u00e9s Moreno</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222230000 +0000" stop="20211223000000 +0000" channel="Mega-PR">
+    <title lang="en">Tiempo de Amar</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211220000000 +0000" stop="20211220020000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Enamor\u00e1ndonos</title>
+    <sub-title lang="en">Amor en la Navidad</sub-title>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20211220020000 +0000" stop="20211220023000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Dr. C\u00e1ndido P\u00e9rez</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220023000 +0000" stop="20211220030000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Dr. C\u00e1ndido P\u00e9rez</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220030000 +0000" stop="20211220033000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Mar\u00eda de Todos Los Angeles</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220033000 +0000" stop="20211220040000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Fin de semana</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220040000 +0000" stop="20211220050000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Jugada</title>
+    <category lang="en">Sports</category>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Miscellaneous</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220050000 +0000" stop="20211220053000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Vecinos</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220053000 +0000" stop="20211220060000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Renta Congelada</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220060000 +0000" stop="20211220070000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Al Punto con Jorge Ramos</title>
+    <desc lang="en">An in-depth look at the week's top stories and most important newsmakers.</desc>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220070000 +0000" stop="20211220080000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220080000 +0000" stop="20211220090000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La rosa de Guadalupe</title>
+    <desc lang="en">Historias de amor, desamor, esperanza, lucha e intriga.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220090000 +0000" stop="20211220093000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Mar\u00eda de Todos Los Angeles</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220093000 +0000" stop="20211220100000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Fin de semana</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220100000 +0000" stop="20211220110000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220110000 +0000" stop="20211220150000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220150000 +0000" stop="20211220160000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211220160000 +0000" stop="20211220163000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220163000 +0000" stop="20211220170000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211220170000 +0000" stop="20211220180000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Hoy</title>
+    <category lang="en">Variety</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220180000 +0000" stop="20211220190000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Amor eterno</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211220190000 +0000" stop="20211220200000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211220200000 +0000" stop="20211220210000 +0000" channel="TeleOnce-PR">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220210000 +0000" stop="20211220220000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Primer impacto</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220220000 +0000" stop="20211220223000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211220223000 +0000" stop="20211220230000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211220230000 +0000" stop="20211221000000 +0000" channel="TeleOnce-PR">
+    <title lang="en">\u00bfQu\u00e9 Le Pasa a Mi Familia?</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221000000 +0000" stop="20211221010000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La rosa de Guadalupe</title>
+    <desc lang="en">Historias de amor, desamor, esperanza, lucha e intriga.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221010000 +0000" stop="20211221020000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Vencer el Pasado</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221020000 +0000" stop="20211221030000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Desalmada</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211221030000 +0000" stop="20211221033000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221033000 +0000" stop="20211221040000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221040000 +0000" stop="20211221050000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Contacto Deportivo</title>
+    <sub-title lang="en">Lo Mejor de a\u00f1o Deportivo</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221050000 +0000" stop="20211221060000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Las tontas no van al cielo</title>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221060000 +0000" stop="20211221070000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211221070000 +0000" stop="20211221073000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Vecinos</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221073000 +0000" stop="20211221080000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Familia P. Luche</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221080000 +0000" stop="20211221090000 +0000" channel="TeleOnce-PR">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221090000 +0000" stop="20211221093000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211221093000 +0000" stop="20211221100000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221100000 +0000" stop="20211221110000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221110000 +0000" stop="20211221150000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221150000 +0000" stop="20211221160000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211221160000 +0000" stop="20211221163000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221163000 +0000" stop="20211221170000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211221170000 +0000" stop="20211221180000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Hoy</title>
+    <category lang="en">Variety</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221180000 +0000" stop="20211221190000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Amor eterno</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211221190000 +0000" stop="20211221200000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211221200000 +0000" stop="20211221210000 +0000" channel="TeleOnce-PR">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221210000 +0000" stop="20211221220000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Primer impacto</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221220000 +0000" stop="20211221223000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211221223000 +0000" stop="20211221230000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211221230000 +0000" stop="20211222000000 +0000" channel="TeleOnce-PR">
+    <title lang="en">\u00bfQu\u00e9 Le Pasa a Mi Familia?</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211222000000 +0000" stop="20211222010000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La rosa de Guadalupe</title>
+    <desc lang="en">Historias de amor, desamor, esperanza, lucha e intriga.</desc>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222010000 +0000" stop="20211222020000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Vencer el Pasado</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211222020000 +0000" stop="20211222030000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Desalmada</title>
+    <category lang="en">Soaps</category>
+  </programme>
+  <programme start="20211222030000 +0000" stop="20211222033000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222033000 +0000" stop="20211222040000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222040000 +0000" stop="20211222050000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Contacto Deportivo</title>
+    <sub-title lang="en">Lo Peor del A\u00f1o Deportivo</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222050000 +0000" stop="20211222060000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Las tontas no van al cielo</title>
+    <category lang="en">Soaps</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222060000 +0000" stop="20211222070000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211222070000 +0000" stop="20211222073000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Vecinos</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222073000 +0000" stop="20211222080000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Familia P. Luche</title>
+    <category lang="en">Sitcom</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222080000 +0000" stop="20211222090000 +0000" channel="TeleOnce-PR">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222090000 +0000" stop="20211222093000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211222093000 +0000" stop="20211222100000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion nocturna</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222100000 +0000" stop="20211222110000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222110000 +0000" stop="20211222150000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Despierta America</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222150000 +0000" stop="20211222160000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Como dice el dicho</title>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20211222160000 +0000" stop="20211222163000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222163000 +0000" stop="20211222170000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Nosotros los guapos</title>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20211222170000 +0000" stop="20211222180000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Hoy</title>
+    <category lang="en">Variety</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222180000 +0000" stop="20211222190000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Amor eterno</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211222190000 +0000" stop="20211222200000 +0000" channel="TeleOnce-PR">
+    <title lang="en">La Madrastra</title>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20211222200000 +0000" stop="20211222210000 +0000" channel="TeleOnce-PR">
+    <title lang="en">El gordo y la flaca</title>
+    <category lang="en">Cultural Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222210000 +0000" stop="20211222220000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Primer impacto</title>
+    <category lang="en">News Magazine</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222220000 +0000" stop="20211222223000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision: Edicion Digital</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20211222223000 +0000" stop="20211222230000 +0000" channel="TeleOnce-PR">
+    <title lang="en">Noticiero Univision</title>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20211222230000 +0000" stop="20211223000000 +0000" channel="TeleOnce-PR">
+    <title lang="en">\u00bfQu\u00e9 Le Pasa a Mi Familia?</title>
+    <category lang="en">Soaps</category>
   </programme>
   <programme start="20211220010000 -0500" stop="20211220032500 -0500" channel="Outer MAX">
     <title lang="en">Cinderella Man</title>
