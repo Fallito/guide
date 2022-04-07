@@ -27,11 +27,6 @@ http://192.168.0.5:5004/auto/v7.1
 #EXTINF:-1 group-title="PR" tvg-shift="-2",WIPR
 https://stream-wipr.online/hls/wipr/2_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",bitmovin
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
-#KODIPROP:inputstream.adaptive.license_key= eb676abbcb345e96bbcf616630f1a3da:100b6c20940f779a4 589152b57d2dacb
-https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="us",Univision
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/781
 
@@ -50,89 +45,14 @@ https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_tok
 #EXTINF:-1 group-title="latino" tvg-logo="https://github.com/Fallito/Ficons/raw/master/A3Series.png" tvg-shift="-1",A3Series Internacional
 http://168.232.168.242:8000/play/a00g/index.m3u8
 
-
-#EXTINF:-1 group-title="latino" tvg-logo="https://github.com/Fallito/Ficons/raw/master/PARAMOUNT.png" tvg-shift="-2",PARAMOUNT latino
-http://168.232.168.242:8000/play/a06k/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-shift="-2",SONY latino
-http://168.232.168.242:8000/play/a09v/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-shift="-2",SPACE latino
-http://168.232.168.242:8000/play/a05h/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-logo="https://github.com/Fallito/Ficons/raw/master/SUNDANCE.png" tvg-shift="-2",SUNDANCE latino
-http://168.232.168.242:8000/play/a0ie/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-shift="1",DHE
-http://168.232.168.242:8000/play/a05u/index.m3u8
-
 #EXTINF:-1 group-title="latino" tvg-shift="1",Cinecanal
 http://181.176.148.142:8000/play/a01g
 
 #EXTINF:-1 group-title="latino" tvg-shift="2",FX latino
-http://www.tecniconsult.hn/FXHD/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-shift="2",TNT latino
-http://168.232.168.242:8000/play/a062/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-shift="2",AXN latino
-http://168.232.168.242:8000/play/a05g/index.m3u8
+http://138.117.84.82/co_fx_sd/index.m3u8
 
 #EXTINF:-1 group-title="latino" tvg-shift="2",AE latino
-http://168.232.168.242:8000/play/a0cg/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-shift="2",AMC latino
-http://168.232.168.242:8000/play/a0ch/index.m3u8
-
-#EXTINF:-1 group-title="latino" tvg-shift="2",WB latino
-http://168.232.168.242:8000/play/a0eq/index.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Authorization="OAuth oauth_consumer_key=19bed33fa740389973a35b1e8c54f809cd008efe8b507a6402f5fa9d4982bf95, oauth_nonce=0axpoF, oauth_signature=ufActj6eJwl0d%2FvE3uq2Sntwm%2Bw%3D, oauth_signature_method=HMAC-SHA1, oauth_timestamp=1627603994, oauth_version=1.0"
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://api.blim.com/license/widevine
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN
-https://channel-golden-cdn.blim.com/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPXHSQp/europa.png" tvg-group="CINE Y SERIES", EUROPA EUROPA
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(EUROPA_EUROPA_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T0jMb06/warner.png" tvg-group="CINE Y SERIES", WARNER
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(WARNER_CHANNEL_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y8zJTN/tooncast.png" tvg-group="INFANTILES", TOONCAST
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TOONCAST)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" tvg-group="CINE Y SERIES", TNT SERIES
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TNT_SERIES_HD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" tvg-group="CINE Y SERIES", UNIVERSAL CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcine.json
-https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C79SYb6/ucomedy.png" tvg-group="CINE Y SERIES", UNIVERSAL COMEDY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcomedy.json
-https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vhyghNC/unpre.png" tvg-group="CINE Y SERIES", UNIVERSAL PREMIERE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalpremier.json
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL CRIME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcrime.json
-https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47G4F78/ureal.png" tvg-group="CINE Y SERIES", UNIVERSAL REALITY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalreality.json
-https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
-
+http://138.117.84.82/co_ae_sd/index.m3u8
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",La 1
 http://37.35.148.30:8000/play/a001 
@@ -170,8 +90,9 @@ http://37.35.148.30:8000/play/a00g
 #EXTINF:-1,Calle 13
 http://78.201.98.110:8000/play/a07f
 
-#EXTINF:-1,Hollywood
-http://78.201.98.110:8000/play/a07b
+#EXTINF:-1,COSMO
+http://78.201.98.110:8000/play/a09g
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fallito/TheLogoDB/master/Images/AXN.png,AXN spain
 http://78.201.98.110:8000/play/a06v
