@@ -51,10 +51,10 @@ http://181.176.148.142:8000/play/a01g
 #EXTINF:-1 group-title="latino" tvg-shift="2",FX latino
 http://190.83.119.67:8000/play/a0ra/index.m3u8
 
-#EXTINF:-1 group-title="latino" tvg-shift="2",AE latino
-http://190.83.119.67:8000/play/a0r7/index.m3u8
+#EXTINF:-1 group-title="latino" tvg-shift="2",AXN latino
+http://190.83.119.67:8000/play/a0um/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png",AMC latino
+#EXTINF:-1,AMC latino
 http://190.83.119.67:8000/play/a0r8/index.m3u8
 
 #EXTINF:-1 group-title="latino" tvg-shift="-2",SONY latino
