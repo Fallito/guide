@@ -70,16 +70,11 @@ http://190.83.119.67:8000/play/a0tj/index.m3u8
 http://190.83.119.67:8000/play/a0v2/index.m3u8
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",La 1
-http://37.35.148.30:8000/play/a001 
+http://78.201.98.110:8000/play/a06x
 
-#EXTINF:-1 group-title="spain" tvg-shift="0",La 2
-http://37.35.148.30:8000/play/a002
 
 #EXTINF:-1 tvg-shift="0" tvg-logo="https://github.com/Fallito/Ficons/raw/master/Antena%203.png" group-title="spain",Antena 3
 http://78.201.98.110:8000/play/a07o
-
-#EXTINF:-1 tvg-shift="0" tvg-logo="https://github.com/Fallito/Ficons/raw/master/A3Series.png" group-title="spain",A3Series
-http://37.35.148.30:8000/play/a00f
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",Cuatro
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/795
@@ -96,17 +91,14 @@ http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/798
 #EXTINF:-1 group-title="spain" tvg-shift="0",Energy
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/799
 
-#EXTINF:-1 group-title="spain" tvg-shift="0",MEGA spain
-http://37.35.148.30:8000/play/a006
-
-#EXTINF:-1 group-title="spain" tvg-shift="0",BeMad
-http://37.35.148.30:8000/play/a00g
-
 #EXTINF:-1,Calle 13
 http://78.201.98.110:8000/play/a07f
 
 #EXTINF:-1,COSMO
 http://78.201.98.110:8000/play/a09g
+
+#EXTINF:-1,SYFY spain
+http://149.100.10.18:8001/play/a06f
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fallito/TheLogoDB/master/Images/AXN.png,AXN spain
@@ -394,12 +386,7 @@ http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/426
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/409
 
 #EXTINF:-1 group-title="us" tvg-shift="0",History
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/412
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DDxrqKz/h2.png" tvg-group="CIENCIA Y CULTURA", H2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/h2.json
-https://dtvott-cbc.akamaized.net/dash_live_1147/manifest.mpd
+http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/41
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Discovery Channel
 http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/415
