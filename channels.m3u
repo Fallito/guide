@@ -28,10 +28,10 @@ http://192.168.0.5:5004/auto/v7.1
 https://stream-wipr.online/hls/wipr/2_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Univision_41_Nueva_York_logo.png" group-title="us",Univision
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/781
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/781
 
 #EXTINF:-1 group-title="us",NBC Universo
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/775
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/775
 
 #EXTINF:-1 group-title="latino" tvg-shift="-2",RCN
 http://200.69.80.43:8000/play/a01f/index.m3u8
@@ -77,19 +77,19 @@ http://78.201.98.110:8000/play/a06x
 http://78.201.98.110:8000/play/a07o
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",Cuatro
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/795
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/795
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",Telecinco
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/796
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/796
 
 #EXTINF:-1 tvg-shift="0" group-title="spain",laSexta
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/794
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/794
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",Divinity
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/798
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/798
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",Energy
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/799
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/799
 
 #EXTINF:-1,Calle 13
 http://78.201.98.110:8000/play/a07f
@@ -105,403 +105,403 @@ http://149.100.10.18:8001/play/a06f
 http://78.201.98.110:8000/play/a06v
 
 #EXTINF:-1 group-title="spain" tvg-shift="0",M Series
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2667
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2667
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Accion
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2665
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2665
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Comedia 
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2671
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2671
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Cine Español
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2672
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2672
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Estrenos
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2669
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2669
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Moviestar.png" group-title="spain" tvg-shift="0",M Drama 
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2670
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2670
 
 
 #EXTINF:-1 group-title="us" tvg-shift="0",CBS
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/376
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/376
 
 #EXTINF:-1 group-title="us" tvg-shift="0",FOX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/382
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/382
 
 #EXTINF:-1 group-title="us" tvg-shift="0",NBC
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/373
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/373
 
 
 #EXTINF:-1 group-title="us" tvg-shift="0",My9
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/526
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/526
 
 #EXTINF:-1,PIX 11
-http://eightspeed.club:8080/live/lakerican@gmail.com/rSXxt3dBrp/534.m3u8
+http://eightspeed.club:8080/live/lakerican@gmail.com/xtFxr7GDmz/534.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Fallito/TheLogoDB/master/Images/TNT.png" group-title="us" tvg-shift="0",TNT
-http://eightspeed.club:8080/live/lakerican@gmail.com/rSXxt3dBrp/368.m3u8
+http://eightspeed.club:8080/live/lakerican@gmail.com/xtFxr7GDmz/368.m3u8
 
 #EXTINF:-1 group-title="us" tvg-shift="0",TBS
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/366
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/366
 
 #EXTINF:-1 group-title="us" tvg-shift="0",USA Network
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/364
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/364
 
 #EXTINF:-1 group-title="us" tvg-shift="0",AE
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/365
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/365
 
 #EXTINF:-1 group-title="us" tvg-shift="0",AMC
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/461
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/461
 
 #EXTINF:-1 group-title="us" tvg-shift="0",FX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/456
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/456
 
 #EXTINF:-1 group-title="us" tvg-shift="0",FXX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/458
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/458
 
 #EXTINF:-1 group-title="us" tvg-shift="0",BBC America
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/361
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/361
 
 #EXTINF:-1 group-title="us" tvg-shift="0",truTV
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/506
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/506
 
 #EXTINF:-1 group-title="us" tvg-shift="0",SYFY
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/369
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/369
 
 #EXTINF:-1 group-title="us" tvg-shift="0",BET
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/478
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/478
 
 #EXTINF:-1 group-title="us" tvg-shift="0",ION
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/501
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/501
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Comedy Central
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/362
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/362
 
 
 #EXTINF:-1 group-title="us" tvg-shift="0",FreeForm
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/498
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/498
 
 #EXTINF:-1 group-title="us" tvg-logo="https://github.com/Fallito/Ficons/raw/master/PARAMOUNT.png" tvg-shift="0",Paramount Network
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/363
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/363
 
 #EXTINF:-1 group-title="us" tvg-logo="https://github.com/Fallito/Ficons/raw/master/SUNDANCE.png" tvg-shift="0",Sundance TV
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/449
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/449
 
 #EXTINF:-1 group-title="us",IFC
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/492
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/492
 
 #EXTINF:-1 group-title="movies" tvg-shift="0",FXM
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/460
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/460
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Starz.png" group-title="movies" tvg-shift="0",STARZ
-http://eightspeed.club:8080/live/lakerican@gmail.com/rSXxt3dBrp/482.m3u8
+http://eightspeed.club:8080/live/lakerican@gmail.com/xtFxr7GDmz/482.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Starz.png" group-title="movies" tvg-shift="0",STARZ Cinema
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2272
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2272
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Starz.png" group-title="movies" tvg-shift="0",STARZ Edge
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/485
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/485
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Starz.png" group-title="movies" tvg-shift="0",STARZ Comedy
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/484
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/484
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Starz.png",STARZ in Black
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/483
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/483
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Starz.png",STARZ Encore
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/486
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/486
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Showtime.png" group-title="movies" tvg-shift="0",Showtime
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/467
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/467
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Showtime.png" group-title="movies" tvg-shift="0",Showtime 2
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2242
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2242
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Showtime.png" group-title="movies" tvg-shift="0",Showtime Extreme
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2247
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2247
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Showtime.png" group-title="movies" tvg-shift="1",SHOxBET
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/468
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/468
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Showtime.png" group-title="movies" tvg-shift="0",Showtime Next
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2256
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2256
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Showtime.png" group-title="movies" tvg-shift="0",Showtime Showcase
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/470
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/470
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/Showtime.png" group-title="movies" tvg-shift="0",Showtime Family Zone
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2252
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2252
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/EPIX.png" group-title="movies" tvg-shift="0",EPIX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2237
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2237
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/EPIX.png" group-title="movies" tvg-shift="0",EPIX 2
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2238
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2238
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/EPIX.png" group-title="movies" tvg-shift="0",EPIX Hits
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/466
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/466
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/EPIX.png" group-title="movies" tvg-shift="0",EPIX Drive-in
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2239
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2239
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/HBO.png" group-title="movies" tvg-shift="0",HBO
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2226
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2226
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/HBO.png" group-title="movies" tvg-shift="0",HBO 2
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2229
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2229
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/HBO.png" group-title="movies" tvg-shift="0",HBO Signature
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2326
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2326
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/HBO.png" group-title="movies" tvg-shift="0", HBO Comedy
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2325
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2325
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/HBO.png" group-title="movies" tvg-shift="0",HBO Zone
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/464
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/464
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/CINEMAX.png" group-title="movies" tvg-shift="0",Cinemax
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/472
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/472
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/CINEMAX.png" group-title="movies" tvg-shift="0",Action MAX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/474
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/474
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/CINEMAX.png" group-title="movies" tvg-shift="0",More MAX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/477
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/477
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/CINEMAX.png" group-title="movies" tvg-shift="0",Thriller MAX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/476
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/476
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/CINEMAX.png" group-title="movies" tvg-shift="0",5Star MAX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2267
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2267
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/CINEMAX.png" group-title="movies" tvg-shift="0",Movie MAX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2266
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2266
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/CINEMAX.png" group-title="movies" tvg-shift="0",Outer MAX
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/475
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/475
 
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Horror Channel
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/325
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/325
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Action
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/344
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/344
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Sci-fi
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/335
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/335
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Drama
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/338
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/338
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Family
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/337
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/337
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Thriller
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/340
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/340
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Comedy
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/341
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/341
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Premiere
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/336
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/336
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Greats
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/342
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/342
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/SkyCinema.png" group-title="uk" tvg-shift="0",Sky Cinema Hits
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/334v
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/334v
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Sky Witness
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/332
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/332
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Sky Comedy
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/1959
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/1959
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Sky Atlantic
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/333
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/333
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Sky Max
-http://eightspeed.club:8080/live/lakerican@gmail.com/rSXxt3dBrp/330.m3u8
+http://eightspeed.club:8080/live/lakerican@gmail.com/xtFxr7GDmz/330.m3u8
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",BBC One
-http://eightspeed.club:8080/live/lakerican@gmail.com/rSXxt3dBrp/273.m3u8
+http://eightspeed.club:8080/live/lakerican@gmail.com/xtFxr7GDmz/273.m3u8
 
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",ITV
-http://eightspeed.club:8080/live/lakerican@gmail.com/rSXxt3dBrp/278.m3u8
+http://eightspeed.club:8080/live/lakerican@gmail.com/xtFxr7GDmz/278.m3u8
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Channel 4
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/282
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/282
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Film 4
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/319
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/319
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",More 4
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/311
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/311
 
 #EXTINF:-1 tvg-id="E" group-title="uk" tvg-shift="0",E4
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/322
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/322
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",Channel 5
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/283
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/283
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",alibi
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/318
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/318
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",W
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/316
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/316
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",QUEST
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/324
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/324
 
 #EXTINF:-1 group-title="uk" tvg-shift="0",SYFY uk
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/306
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/306
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/PARAMOUNT.png" group-title="uk" tvg-shift="0",Paramount Network uk
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/312
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/312
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Food Network
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/402
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/402
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Cooking Channel
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/405
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/405
 
 #EXTINF:-1 group-title="us" tvg-shift="0",NatGeo
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/424
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/424
 
 #EXTINF:-1 group-title="us" tvg-shift="0",NatGeo Wild
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/426
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/426
 
 
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Animal Planet
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/409
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/409
 
 #EXTINF:-1 group-title="us" tvg-shift="0",History
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/41
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/41
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Discovery Channel
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/415
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/415
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Motor Trend
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/423
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/423
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Science
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/419
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/419
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Travel Channel
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/431
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/431
 
 #EXTINF:-1 group-title="us" tvg-shift="0",Destination America
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/408
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/408
 
 #EXTINF:-1 group-title="us" tvg-shift="0",TLC
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/504
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/504
 
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",FS1
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/640
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/640
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",FS2 
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/641
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/641
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",NBC Golf
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/647
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/647
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",CBS Sports Network
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/649
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/649
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/ESPN.png" group-title="sports" tvg-shift="0",ESPN
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/637
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/637
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/ESPN.png" group-title="sports" tvg-shift="0",ESPN 2
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/638
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/638
 
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",beIN Sports
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/687
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/687
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",MLB Network
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/644
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/644
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",NBA TV
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/643
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/643
 
 #EXTINF:-1 group-title="sports" tvg-shift="-1",Sportsnet One
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/655
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/655
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/tsn.png" group-title="sports" tvg-shift="-1",TSN 1
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/656
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/656
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/tsn.png" group-title="sports" tvg-shift="-1",TSN 2
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/657
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/657
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/tsn.png" group-title="sports" tvg-shift="-1",TSN 3
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/658
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/658
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/tsn.png" group-title="sports" tvg-shift="-1",TSN 4
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/659
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/659
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/tsn.png" group-title="sports" tvg-shift="-1",TSN 5
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/660
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/660
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/sky%20sports.png" group-title="sports" tvg-shift="0",Sky Sports Premier League
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/229
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/229
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/sky%20sports.png" group-title="sports" tvg-shift="0",Sky Sports Cricket
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/226
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/226
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/sky%20sports.png" group-title="sports" tvg-shift="0",Sky Sports Golf
-http://eightspeed.club:8080/live/lakerican@gmail.com/rSXxt3dBrp/242.m3u8
+http://eightspeed.club:8080/live/lakerican@gmail.com/xtFxr7GDmz/242.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/sky%20sports.png" group-title="sports" tvg-shift="0",Sky Sports Action
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/227
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/227
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/sky%20sports.png" group-title="sports" tvg-shift="0",Sky Sports Arena
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/231
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/231
 
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",Eurosport 1
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/256
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/256
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",Eurosport 2
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/257
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/257
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/BT%20Sport.png" group-title="sports" tvg-shift="0",BT Sport 1
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/234
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/234
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/BT%20Sport.png" group-title="sports" tvg-shift="0",BT Sport 2
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/235
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/235
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/BT%20Sport.png" group-title="sports" tvg-shift="1",BT Sport 3
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/236
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/236
 
 #EXTINF:-1 tvg-logo="https://github.com/Fallito/Ficons/raw/master/BT%20Sport.png" group-title="sports" tvg-shift="1",BT Sport ESPN
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/237
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/237
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",Free Sports
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/265
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/265
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",FOX Deportes
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/778
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/778
 
 #EXTINF:-1 group-title="sports" tvg-shift="0",ESPN Deportes
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/777
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/777
 
 #EXTINF:-1 group-title="sports",Spectrum SportsNet
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/772
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/772
 
 #EXTINF:-1 group-title="sports",SportsNet LA
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/2840
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/2840
 
 #EXTINF:-1 group-title="sports",NFL Network
-http://eightspeed.club:8080/lakerican@gmail.com/rSXxt3dBrp/642
+http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/642
